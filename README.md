@@ -2,7 +2,7 @@
 This repository contains related files implementing a U-Net model using TensorFlow 2 and Keras for semantic segmentation of breast ultrasound images. The model is trained on the Breast Ultrasound Images Dataset to identify tumors in ultrasound images.
 
 ## Overview
-The notebook `pinkstrap.ipynb` is the main code designed for breast cancer ultrasound image segmentation using the U-Net architecture. This notebook demonstrates:
+The notebooks `pinkstrap_xchannels.ipynb` with `x` is the number of channels are the main codes designed for breast cancer ultrasound image segmentation using the U-Net architecture. This notebook demonstrates:
 - Data loading and preprocessing from datasets (original, augmented, or merged versions).
 - Building a U-Net architecture with convolutional blocks.
 - Model compilation, training, and evaluation.
