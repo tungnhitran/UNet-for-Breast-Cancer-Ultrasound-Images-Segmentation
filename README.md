@@ -32,6 +32,7 @@ The U-Net consists of:
 - Enocder: Convolutional blocks with max pooling.
 - Decoder: Transpose convolutions with skip connections.
 - Output: Sigmoid activation for binary segmentation (tumor vs. background).
+  
 The number of channels is used as a hyperparameter to determine the optimal configuration of U-Net architecture for the task. 
 
 ## Results
