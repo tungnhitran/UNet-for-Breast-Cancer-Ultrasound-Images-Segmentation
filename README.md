@@ -38,4 +38,4 @@ The number of channels is used as a hyperparameter to determine the optimal conf
 ## Results
 - Training on augmented data shows improved stability compared to unfiltered merged data.
 - Example visualizations in the notebook demonstrate predicted masks vs. ground truth.
-- Accuracy up to 97.89%.
+- Accuracy up to 95.80%.
