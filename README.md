@@ -35,6 +35,8 @@ The U-Net consists of:
   
 The number of channels is used as a hyperparameter to determine the optimal configuration of U-Net architecture for the task. 
 
+The U-Net architecture built from scratch can be found in `UNet.ipynb`.
+
 ## Results
 - Training on augmented data shows improved stability compared to unfiltered merged data.
 - Example visualizations in the notebook demonstrate predicted masks vs. ground truth.
