@@ -7,7 +7,7 @@ The notebooks `pinkstrap_xchannels.ipynb` with `x` is the number of channels are
 - Building a U-Net architecture with convolutional blocks.
 - Model compilation, training, and evaluation.
 - Visualizing loss/accuracy curves and predictions.
-The original version of this notebook is first shown in Kaggle, where the datasets are saved.
+The original version of this notebook is first shown in [my Kaggle] (https://www.kaggle.com/code/tungnhitran/pinkstrap), where the datasets are saved.
 
 ## Dataset
 The notebook uses the Breast Ultrasound Images Dataset from Kaggle, with optional augmented or merged versions:
